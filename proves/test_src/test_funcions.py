@@ -1,4 +1,4 @@
-from ci_es_primo2.src.funcions import es_primo
+from ci_es_primo3.src.funcions import es_primo
 
 def test_es_primo_numero_primo():
     assert es_primo(2) == True
