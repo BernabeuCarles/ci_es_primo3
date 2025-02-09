@@ -1,3 +1,9 @@
+"""  
+Este módulo realiza análisis de datos sobre registros de ventas.  
+Incluye funciones para leer datos, procesar estadísticas  
+y generar informes.  
+""" 
+
 from ci_es_primo3.src.funcions import es_primo
 
 def test_es_primo_numero_primo():
